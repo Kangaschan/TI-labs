@@ -1,0 +1,10 @@
+C:\MYSTUFF\TI\Labs1\bin\Debug\Labs1.exe.config
+C:\MYSTUFF\TI\Labs1\bin\Debug\Labs1.exe
+C:\MYSTUFF\TI\Labs1\bin\Debug\Labs1.pdb
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.csproj.AssemblyReference.cache
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.Properties.Resources.resources
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.csproj.GenerateResource.cache
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.exe
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.pdb
+C:\MYSTUFF\TI\Labs1\obj\Debug\Labs1.MainForm.resources
