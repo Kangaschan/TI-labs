@@ -1,0 +1,10 @@
+C:\MYSTUFF\TI\Labs3\RabinAlgo\bin\Debug\RabinAlgo.exe.config
+C:\MYSTUFF\TI\Labs3\RabinAlgo\bin\Debug\RabinAlgo.exe
+C:\MYSTUFF\TI\Labs3\RabinAlgo\bin\Debug\RabinAlgo.pdb
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.csproj.AssemblyReference.cache
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.Form1.resources
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.Properties.Resources.resources
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.csproj.GenerateResource.cache
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.exe
+C:\MYSTUFF\TI\Labs3\RabinAlgo\obj\Debug\RabinAlgo.pdb

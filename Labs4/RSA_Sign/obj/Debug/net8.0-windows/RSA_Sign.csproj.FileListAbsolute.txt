@@ -1,0 +1,16 @@
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.MainForm.resources
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.csproj.GenerateResource.cache
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.AssemblyInfoInputs.cache
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.AssemblyInfo.cs
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\TI\Labs4\RSA_Sign\bin\Debug\net8.0-windows\RSA_Sign.exe
+C:\MYSTUFF\TI\Labs4\RSA_Sign\bin\Debug\net8.0-windows\RSA_Sign.deps.json
+C:\MYSTUFF\TI\Labs4\RSA_Sign\bin\Debug\net8.0-windows\RSA_Sign.runtimeconfig.json
+C:\MYSTUFF\TI\Labs4\RSA_Sign\bin\Debug\net8.0-windows\RSA_Sign.dll
+C:\MYSTUFF\TI\Labs4\RSA_Sign\bin\Debug\net8.0-windows\RSA_Sign.pdb
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.dll
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\refint\RSA_Sign.dll
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.pdb
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\RSA_Sign.genruntimeconfig.cache
+C:\MYSTUFF\TI\Labs4\RSA_Sign\obj\Debug\net8.0-windows\ref\RSA_Sign.dll
